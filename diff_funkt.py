@@ -32,7 +32,7 @@ with st.sidebar:
 
     st.subheader("🧪 Test notation")
 
-    st.markdown("**Skriv funktionen med Python-lignende notation, fx: `sin(2*x)`**")
+    st.markdown("**Prøv at skrive en funktion med den specielle notation.**")
     st.markdown("Eksempler på funktioner du kan prøve at skrive:")
 
     st.latex(r"f(x) = \sin(3x + 1)")
