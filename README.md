@@ -1,1 +1,1 @@
-# differentiere_traen
+Træning i at differentiere funktioner.
